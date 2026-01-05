@@ -60,14 +60,14 @@ Airbnb-clone/
 └── README.md
 </pre>
 
-
+<br/>
 <img width="1883" height="853" alt="Screenshot 2026-01-05 194846" src="https://github.com/user-attachments/assets/c9f10419-0f4a-4f38-a60a-bfddb8e631ed" />
-
 
 <img width="1892" height="871" alt="Screenshot 2026-01-05 195003" src="https://github.com/user-attachments/assets/469fd0a8-d72c-4b1a-ab6c-b7ec25ff0998" />
 
-
 <img width="1895" height="787" alt="Screenshot 2026-01-05 195035" src="https://github.com/user-attachments/assets/f214beb9-fdbd-4c0b-a95c-176c87f62b53" />
+
+<br />
 
 <h2>🔐 Authentication</h2>
 <ul>
